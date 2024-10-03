@@ -1,0 +1,15 @@
+{
+  "name": "altasumarelocoah",
+  "version": "2.0.0",
+  "main": "src/app.js",
+  "scripts": {
+    "dev": "node --watch src/app.js"
+  },
+  "keywords": [],
+  "author": "Comisión Coder",
+  "license": "ISC",
+  "description": "La suma mas maravillosa del mundo",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
