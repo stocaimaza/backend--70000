@@ -1,0 +1,3 @@
+{"level":"warning","message":"Mensaje de Advertencia"}
+{"level":"error","message":"Mensaje de error"}
+{"level":"fatal","message":"Fatal ya casi muertos"}

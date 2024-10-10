@@ -1,0 +1,8 @@
+{"level":"warn","message":"¡Cuidado hombre radiactivo!"}
+{"level":"warn","message":""}
+{"level":"error","message":""}
+{"level":"warn","message":"Mensaje de Advertencia"}
+{"level":"error","message":"Mensaje de error"}
+warning: Mensaje de Advertencia
+error: Mensaje de error
+fatal: Fatal ya casi muertos
